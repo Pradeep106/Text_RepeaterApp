@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Text Repeater</string>
+    <string name="genrate">Genrate</string>
+    <string name="new_line">New Line</string>
+    <string name="text">text</string>
+    <string name="repeatation_limit">Repeatation Limit</string>
+    <string name="reset">Reset</string>
+    <string name="output_size">Output size :</string>
+    <string name="textview">TextView</string>
+    <string name="_0_byte">0 byte</string>
+    <string name="text_repeater">Text Repeater</string>
+    <string name="todo">TODO</string>
+
+</resources>
